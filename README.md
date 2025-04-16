@@ -1,2 +1,2 @@
 # Optimization-of-ClassRoom-Dimension-using-Chemical-Engineering-Principles
-This is a Course project of CHN-302 
+This is a Course project of CHN-302 (Engineering Analysis and Modelling). Here basically , I have applied my chemical engineering project where I apply my chemical engineering concept, along with cost calculation along with the Numerical method to get the optimum dimensions of the classrooms. There are also some assumptions, which I have taken to solve this problem. This is a self-learning based project.
